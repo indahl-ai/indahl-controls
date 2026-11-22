@@ -1,0 +1,17 @@
+{
+  "name": "indahl-controls",
+  "owner": {
+    "name": "Heuremen LLC",
+    "url": "https://indahl.ai"
+  },
+  "plugins": [
+    {
+      "name": "indahl-controls",
+      "source": "./",
+      "description": "Audit a study's or test's positive and negative controls before it runs. Returns a control table and READY, FIX_CONTROLS or CANNOT_TELL. Use when designing an experiment, an eval or a detector. Runs inside your session.",
+      "version": "1.0.0",
+      "category": "research",
+      "homepage": "https://indahl.ai/standard"
+    }
+  ]
+}
